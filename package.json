@@ -1,6 +1,6 @@
 {
   "name": "electron-spellchecker-provider",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Implement spellcheck provider for electron",
   "scripts": {
     "doc": "esdoc -c ./esdoc.json",
@@ -32,7 +32,7 @@
     "keyboard-layout": "^2.0.16",
     "lru-cache": "^4.0.2",
     "mkdirp": "^0.5.1",
-    "node-spellcheckr": "^4.0.2",
+    "node-spellcheckr": "torycl/node-spellchecker#331c084c5065c1023d4aec9708ffeff2c8cac16d",
     "pify": "^2.3.0",
     "rxjs": "^5.0.1",
     "spawn-rx": "^2.0.7"
